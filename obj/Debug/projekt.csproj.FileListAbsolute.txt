@@ -1,0 +1,10 @@
+E:\qdooddania\projekt\bin\Debug\projekt.exe.config
+E:\qdooddania\projekt\bin\Debug\projekt.exe
+E:\qdooddania\projekt\bin\Debug\projekt.pdb
+E:\qdooddania\projekt\obj\Debug\projekt.csprojAssemblyReference.cache
+E:\qdooddania\projekt\obj\Debug\projekt.Form1.resources
+E:\qdooddania\projekt\obj\Debug\projekt.Properties.Resources.resources
+E:\qdooddania\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+E:\qdooddania\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+E:\qdooddania\projekt\obj\Debug\projekt.exe
+E:\qdooddania\projekt\obj\Debug\projekt.pdb
